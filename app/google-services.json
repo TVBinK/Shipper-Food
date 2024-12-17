@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "788639659495",
+    "firebase_url": "https://foodordering-2c6b8-default-rtdb.firebaseio.com",
+    "project_id": "foodordering-2c6b8",
+    "storage_bucket": "foodordering-2c6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788639659495:android:90c226185105858a28b942",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNHhiH4PikwKowYe9ICgVuFMmompNgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788639659495:android:1a018377e26d231a28b942",
+        "android_client_info": {
+          "package_name": "com.example.foododering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788639659495-0kfnqsr4md8e5c5vk5g4g8gqab7t9gb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foododering",
+            "certificate_hash": "08ec3c82bd117cd59d6fe26970a8a94b3c50db67"
+          }
+        },
+        {
+          "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNHhiH4PikwKowYe9ICgVuFMmompNgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788639659495:android:76fdba867e45baf328b942",
+        "android_client_info": {
+          "package_name": "com.example.shipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNHhiH4PikwKowYe9ICgVuFMmompNgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788639659495-tps43tcr9ucrl9lcge7gkre33ctjnhcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
