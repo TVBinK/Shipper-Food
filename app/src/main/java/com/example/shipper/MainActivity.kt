@@ -23,7 +23,11 @@ class MainActivity : AppCompatActivity() {
             finish()
         }
         binding.cardViewManageOrder.setOnClickListener {
-            val intent = Intent(this, MapActivity::class.java)
+            val intent = Intent(this, ListOrderActivity::class.java)
+            startActivity(intent)
+        }
+        binding.cardViewManageAccount.setOnClickListener {
+            val intent = Intent(this, ManageAccountActivity::class.java)
             startActivity(intent)
         }
     }
